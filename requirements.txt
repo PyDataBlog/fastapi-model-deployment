@@ -1,0 +1,6 @@
+email-validator==1.0.5
+scikit-learn==0.21.3
+joblib==0.14.0
+fastapi==0.42.0
+uvicorn==0.9.1
+pandas==0.25.2
