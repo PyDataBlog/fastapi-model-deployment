@@ -20,3 +20,5 @@ docs/_build
 app/__pycache__
 app/data/__pycache__
 app/data/data_banknote_authentication.txt
+LICENSE
+README.md
